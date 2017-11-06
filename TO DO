@@ -1,0 +1,17 @@
+BIG TASKS
+-------------------------------------------------------------------------------
+Make buildings and UI panel dynamic for when more resources are added.
+Add more buildings
+Add enemies/defences
+Add new AI Interface
+Add buttons to UI
+Add zoom/scroll
+Add multiplayer
+Add new world generator
+Add main/settings menu with main game loading
+Portraits are actual artwork
+Add player building placement
+
+Little things
+-------------------------------------------------------------------------------
+buildings render multiple times per game render
